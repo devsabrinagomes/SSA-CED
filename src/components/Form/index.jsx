@@ -5,7 +5,7 @@ import Dropdown from '../Dropdown/index';
 
 function Form() {
   return (
-    <form style="margin-left: 15px; margin-right: 15px;">
+    <form>
       <Header />
       <Datapicker />
       <Dropdown />
